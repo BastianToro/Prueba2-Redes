@@ -5,4 +5,7 @@ def funcion():
 def funcion2():
     print ("CHao")
 
+def funcion3():
+    print ("valor")
+
 funcion()
